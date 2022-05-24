@@ -1,6 +1,6 @@
 # Site
 title:              Kim Seong Hoon
-bio:                '포트폴리오'
+bio:                '포트폴리오 정리'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
@@ -37,20 +37,20 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
+email:               "glydokidd@naver.com"
+#twitter:            username
+#facebook:           username
 github-url:         "/glydokid"
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          "/10bnn15"
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
