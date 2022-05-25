@@ -78,3 +78,62 @@ int main() {
 	return 0;
 }
 ~~~
+
+### 1-4. 사분면 고르기
+
+~~~c
+#include <stdio.h>
+int main() {
+	int num1, num2;
+
+	scanf("%d %d", &num1, &num2);
+
+	if ((-1000 <= num1 <= 1000 && num1 != 0) && (-1000 <= num2 <= 1000 && num2 != 0)) {
+		if (num1 > 0 && num2 > 0)
+			printf("1");
+		else if (num1 < 0 && num2 > 0)
+			printf("2");
+		else if (num1 < 0 && num2 < 0)
+			printf("3");
+		else if (num1 > 0 && num2 < 0)
+			printf("4");
+	}
+
+	return 0;
+}
+~~~~
+
+### 1-5. 알람시계
+
+~~~c
+#include <stdio.h>
+int main() {
+	int H, M;
+
+	scanf("%d %d", &H, &M);
+
+	if (H == 0) {
+		if (M < 45) {
+			H = 23;
+			M = M + 60 - 45;
+			printf("%d %d", H, M);
+		}
+		else if (M >= 45) {
+			M = M - 45;
+			printf("%d %d", H, M);
+		}
+	}
+	else if (H > 0) {
+		if (M < 45) {
+			H = H - 1;
+			M = M + 60 - 45;
+			printf("%d %d", H, M);
+		}
+		else if (M >= 45) {
+			M = M - 45;
+			printf("%d %d", H, M);
+		}
+	}
+	return 0;
+}
+~~~
