@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BeakJoon C 알고리즘 문제풀이 "
-date: 2022-05-24
+date: 2022-05-25
 excerpt: "조건문"
 tags: [C_BeakJoon]
 comments: true
