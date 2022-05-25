@@ -10,4 +10,4 @@ comments: true
 # 목록
 
 ## 1. [조건문](https://glydokid.github.io//BeakJoon-C-Conditional)
-## 2. [반복문]()
+## 2. [반복문](https://glydokid.github.io//BeakJoon-C-loop)
