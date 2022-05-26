@@ -95,6 +95,7 @@ int main() {
 ~~~
 
 >### 7. A+B - 7 _ 11021
+
 ~~~c
 #include <stdio.h>
 int main() {
@@ -114,6 +115,7 @@ int main() {
 ~~~
 
 >### 9. 별찍기 - 1
+
 ~~~c
 #include <stdio.h>
 int main() {
@@ -135,6 +137,7 @@ int main() {
 ~~~
 
 >### 11. X보다 작은 수 _ 10871
+
 ~~~c
 #include<stdio.h>
 int main() {
@@ -153,6 +156,7 @@ int main() {
 ~~~
 
 >### 12. A+B - 5 _ 10952
+
 ~~~c
 #include<stdio.h>
 int main() {
@@ -169,6 +173,7 @@ int main() {
 ~~~
 
 >### 13. A+B - 4 _ 10951
+
 ~~~c
 #include<stdio.h>
 int main() {
@@ -184,6 +189,7 @@ int main() {
 ~~~
 
 >### 14. 더하기 사이클 _ 1110
+
 ~~~c
 #include<stdio.h>
 int main() {
