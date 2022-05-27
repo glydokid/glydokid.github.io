@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BeakJoon C 알고리즘 문제풀이 목록"
+title: "BeakJoon JAVA 알고리즘 문제풀이 목록"
 date: 2022-05-24
 excerpt: ""
 tags: []
