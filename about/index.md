@@ -16,6 +16,6 @@ comments: false
 
 ### * AI 프로젝트 
 - [breast_cancer예측](https://github.com/glydokid/AI_research/tree/master/breast_cancer%EC%98%88%EC%B8%A1)
-- [Cycle GAN을 활용한 벽지 인테리어 시뮬레이션]()
+- [Cycle GAN을 활용한 벽지 인테리어 시뮬레이션 - 예정]()
 ### * 수상내역
 ### * 활동내역
