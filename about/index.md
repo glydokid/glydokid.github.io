@@ -9,6 +9,12 @@ comments: false
 <center>My <a href="https://github.com/glydokid"><b>github</b></a> </center>
 
 ## 포트폴리오 목록
+------------------------------------
+
+### * [수상내역](https://glydokid.github.io//awards)
+
+### * [활동내역](https://glydokid.github.io//activities)
+
 ### * 한국형 아파트를 위한 드론택배 경로 설정기법에 관한 연구 (URP)
 
 ### * C 프로젝트
@@ -28,7 +34,3 @@ comments: false
 - [breast_cancer예측](https://github.com/glydokid/AI_research/tree/master/breast_cancer%EC%98%88%EC%B8%A1)
 - [YOLO5를 활용한 pistol 인식](https://github.com/glydokid/AI_research/blob/master/YOLO5.ipynb)
 - [Cycle GAN을 활용한 벽지 인테리어 시뮬레이션 - 예정]()
-
-### * [수상내역](https://glydokid.github.io//awards)
-
-### * [활동내역](https://glydokid.github.io//activities)
