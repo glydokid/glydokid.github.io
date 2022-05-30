@@ -29,4 +29,5 @@ comments: false
 - [YOLO5를 활용한 pistol 인식](https://github.com/glydokid/AI_research/blob/master/YOLO5.ipynb)
 - [Cycle GAN을 활용한 벽지 인테리어 시뮬레이션 - 예정]()
 ### * 수상내역
+
 ### * 활동내역
