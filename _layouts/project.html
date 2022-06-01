@@ -8,6 +8,9 @@ layout: compress
 <!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
 <head>
     {% include head.html %}
+    <script type="text/javascript">
+        document.oncontextmenu = function(){return false;}
+    </script>
 </head>
 <body>
     {% include nav.html %}
@@ -40,5 +43,6 @@ layout: compress
     {% include scripts.html %}
     <script src="{{ site.url }}/assets/js/wow.min.js"></script>
     <script type="text/javascript">(new WOW).init();</script>
+    <body oncontextmenu="return false" onselectstart="return false" ondragstart="return false" onkeydown="return false"></body>
 </body>
 </html>
