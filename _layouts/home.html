@@ -8,6 +8,9 @@ layout: compress
 <!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
 <head>
     {% include head.html %}
+    <script type="text/javascript">
+        document.oncontextmenu = function(){return false;}
+    </script>
 </head>
 <body>
     {% include nav.html %}
@@ -46,5 +49,6 @@ layout: compress
         </div>
     </header>
     {% include scripts.html %}
+    <body oncontextmenu="return false" onselectstart="return false" ondragstart="return false" onkeydown="return false"></body>
 </body>
 </html>
