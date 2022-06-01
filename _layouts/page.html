@@ -8,6 +8,9 @@ layout: compress
 <!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
 <head>
     {% include head.html %}
+    <script type="text/javascript">
+        document.oncontextmenu = function(){return false;}
+    </script>
 </head>
 <body>
     {% include nav.html %}
@@ -31,5 +34,6 @@ layout: compress
     <!-- MathJax -->
     <script async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     {% endif %}
+    <body oncontextmenu="return false" onselectstart="return false" ondragstart="return false" onkeydown="return false"></body>
 </body>
 </html>
