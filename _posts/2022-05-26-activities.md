@@ -3,7 +3,7 @@ layout: post
 title: "활동내역"
 date: 2022-05-26
 excerpt: ""
-tags: []
+tags: [Activities]
 comments: true
 ---
 
