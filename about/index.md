@@ -15,8 +15,6 @@ comments: false
 
 ### * [활동내역](https://glydokid.github.io//activities)
 
-### * 한국형 아파트를 위한 드론택배 경로 설정기법에 관한 연구 (URP)
-
 ### * C 프로젝트
 - [텍스트 기반 포켓몬 게임](https://github.com/glydokid/C_Project/tree/main/pokemon_3)
 - [텍스트 기반 가위바위보 게임](https://github.com/glydokid/C_Project/tree/main/RPS_Game)
