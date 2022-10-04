@@ -15,7 +15,7 @@ comments: false
 
 ### * [활동내역](https://glydokid.github.io//activities)
 
-### * [특허출원 - 차간거리 측정 시스템 및 방법](https://glydokid.github.io//%EC%B0%A8%EA%B0%84%EA%B1%B0%EB%A6%AC-%EC%B8%A1%EC%A0%95-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%B0%8F-%EB%B0%A9%EB%B2%95/)
+### * [특허출원 - 차간거리 측정 시스템 및 방법](https://glydokid.github.io//%ED%8A%B9%ED%97%88%EC%B6%9C%EC%9B%90/)
 
 ### * C 프로젝트
 - [텍스트 기반 포켓몬 게임](https://github.com/glydokid/C_Project/tree/main/pokemon_3)
