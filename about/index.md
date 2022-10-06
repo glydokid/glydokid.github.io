@@ -6,7 +6,7 @@ date: 2017-03-21
 comments: false
 ---
     
-<center>My <a href="https://github.com/glydokid"><b>github</b></a> </center>
+<center>My <a href="https://github.com/glydokid"><b>github Link</b></a> </center>
 
 ## 포트폴리오 목록
 ------------------------------------
