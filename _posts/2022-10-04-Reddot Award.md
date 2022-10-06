@@ -7,8 +7,6 @@ tags: [Awards]
 comments: true
 ---
 
-2022년 레드닷 어워드(Reddot Award)
-
 ![image](https://user-images.githubusercontent.com/70894372/193739683-be92058e-4114-43b8-ac38-b75de48098ed.png)
 
 
