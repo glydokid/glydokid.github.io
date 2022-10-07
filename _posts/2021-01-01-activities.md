@@ -15,7 +15,7 @@ comments: true
 
 - ### [2021년도 학부생 연구프로그램(URP) 지원 연구 과제](https://glydokid.github.io//%ED%95%99%EB%B6%80%EC%83%9D-%EC%97%B0%EA%B5%AC%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/)
 
-- ### 이미지 데이터 전처리 작업 프리랜서 (2021-08-26 ~ 2021-11-30)
+- ### [이미지 데이터 전처리 작업 프리랜서 (2021-08-26 ~ 2021-11-30)](https://glydokid.github.io//%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%B2%98%EB%A6%AC/)
 
 - ### [[SW중심대학사업단] 2022년 가치확산 봉사동아리 보듬잇(IT) - 배정고등학교 AI동아리 튜터](https://glydokid.github.io//%EB%B3%B4%EB%93%AC%EC%9E%87-%EB%B4%89%EC%82%AC%EB%8F%99%EC%95%84%EB%A6%AC/)
 
