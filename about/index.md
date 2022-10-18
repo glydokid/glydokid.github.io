@@ -36,4 +36,4 @@ comments: false
 - [breast_cancer예측](https://github.com/glydokid/AI_research/tree/master/breast_cancer%EC%98%88%EC%B8%A1)
 - [YOLO5를 활용한 영상속 pistol 인식](https://glydokid.github.io//Yolo5)
 - Cycle GAN을 활용한 벽지 인테리어 시뮬레이션 [[Git Hub](https://github.com/glydokid/AI_research/tree/master/CycleGan)] [[Page](https://glydokid.github.io//Cycle-GAN)]
-- [얼굴인식 알고리즘 - 배정고 AI동아리 멘토링](https://github.com/glydokid/AI_research/tree/master/%EB%B0%B0%EC%A0%95%EA%B3%A0%20AI%EB%8F%99%EC%95%84%EB%A6%AC%20%EB%A9%98%ED%86%A0%EB%A7%81%20-%20%EC%96%BC%EA%B5%B4%EC%9D%B8%EC%8B%9D)
+- 얼굴인식 알고리즘 - 배정고 AI동아리 멘토링[[Git Hub](https://github.com/glydokid/AI_research/tree/master/%EB%B0%B0%EC%A0%95%EA%B3%A0%20AI%EB%8F%99%EC%95%84%EB%A6%AC%20%EB%A9%98%ED%86%A0%EB%A7%81%20-%20%EC%96%BC%EA%B5%B4%EC%9D%B8%EC%8B%9D)] [[Page](https://glydokid.github.io//%EB%B3%B4%EB%93%AC%EC%9E%87-%EB%B4%89%EC%82%AC%EB%8F%99%EC%95%84%EB%A6%AC/)]
