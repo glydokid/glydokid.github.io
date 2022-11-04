@@ -9,7 +9,6 @@ comments: true
 
 ![image](https://user-images.githubusercontent.com/70894372/193739683-be92058e-4114-43b8-ac38-b75de48098ed.png)
 
-
 2021년도 2학기에 교수님의 추천으로 아이데이션 융합 실습이라는 전공수업을 수강하게 되었다.
 아이데이션 수업은 소프트웨어 학과와 디지털 미디어 디자인, 광고 홍보학과와 융합 수업으로 진행되었다.
 
@@ -42,3 +41,5 @@ Reddot에 출품하기 위해서는 5주 안에 아이디어를 선정하고 영
 ![Johnnie Walker's Playlist1](https://user-images.githubusercontent.com/70894372/193736978-6f926d19-70ba-403c-9b58-f23e86ffd07a.jpg)
 
 ![Johnnie Walker's Playlist2](https://user-images.githubusercontent.com/70894372/193737030-8536e50e-656c-4ffb-a5c0-7942e9b7f2cb.jpg)
+
+<img src="https://user-images.githubusercontent.com/70894372/199887987-93fda51c-6f66-4e5f-97ec-341f3d693859.png" width="60%" height="60%">
