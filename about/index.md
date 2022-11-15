@@ -19,6 +19,8 @@ comments: false
 
 ### * [이미지 데이터 전처리 작업 - 프리랜서](https://glydokid.github.io//%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%B2%98%EB%A6%AC/)
 
+### * [python 자료구조 개인 공부](https://glydokid.github.io//%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/)
+
 ### * C 프로젝트
 - [텍스트 기반 포켓몬 게임](https://github.com/glydokid/C_Project/tree/main/pokemon_3)
 - [텍스트 기반 가위바위보 게임](https://github.com/glydokid/C_Project/tree/main/RPS_Game)
