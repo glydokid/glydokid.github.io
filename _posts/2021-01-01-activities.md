@@ -21,7 +21,7 @@ comments: true
 
 - ### [LG 디스커버리랩 보조강사 (2022-05 ~ 2023-02)](https://glydokid.github.io//LG-%EB%94%94%EC%8A%A4%EC%BB%A4%EB%B2%84%EB%A6%AC%EB%9E%A9/)
 
-- ### 2022년 한국통신학회 하계 종합 학술 발표회 - 구두발표 (2022-06-22 ~ 2022-06-24)
+- ### [2022년 한국통신학회 하계 종합 학술 발표회 - 구두발표 (2022-06-22 ~ 2022-06-24)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11108395)
 
 - ### 2022 B.Startup 캠퍼스 리빙랩 - (2022-07-13 ~ 2022-09)
 
